@@ -1,0 +1,21 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Логи
+*.log
+
+# Файлы операционных систем
+.DS_Store
+Thumbs.db
+
+# Секретные конфигурации (пароли от PostgreSQL)
+src/main/resources/application.properties
